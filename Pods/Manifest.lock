@@ -1,0 +1,22 @@
+PODS:
+  - FSCalendar (2.8.2)
+  - GRDB.swift (5.13.0):
+    - GRDB.swift/standard (= 5.13.0)
+  - GRDB.swift/standard (5.13.0)
+
+DEPENDENCIES:
+  - FSCalendar
+  - GRDB.swift
+
+SPEC REPOS:
+  trunk:
+    - FSCalendar
+    - GRDB.swift
+
+SPEC CHECKSUMS:
+  FSCalendar: e6a2eb9c571bf0719ed797ef807e08426753c241
+  GRDB.swift: 8a1e24a61dd9efe7ba82e393a6555720d3ec07f4
+
+PODFILE CHECKSUM: cd34391843e3834244fe0a83852ba4f7ab6919c8
+
+COCOAPODS: 1.11.2
